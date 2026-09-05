@@ -15,7 +15,7 @@ https://www.instagram.com/anarkey_55/
 💻 Tech Stack:
 Lua LuaU Python Html Htmx R
 
-📊 GitHub Stats:
-
-
 ✍️ Random Dev Quote
+
+''Good judgement comes from experience. Experience comes from bad judgement.''
+- Jim Horning
